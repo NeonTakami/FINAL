@@ -1,5 +1,9 @@
 sceneSetups:
+<<<<<<< HEAD
 - path: Assets/Scenes/Howto.unity
+=======
+- path: Assets/Scenes/End credit.unity
+>>>>>>> f17018ee527608675d5782d345b205f4cfa096c0
   isLoaded: 1
   isActive: 1
   isSubScene: 0

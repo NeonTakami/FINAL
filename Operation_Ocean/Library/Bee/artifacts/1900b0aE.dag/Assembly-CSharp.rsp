@@ -122,7 +122,10 @@
 -define:UNITY_POST_PROCESSING_STACK_V2
 -define:CSHARP_7_OR_LATER
 -define:CSHARP_7_3_OR_NEWER
+<<<<<<< HEAD
 -r:"Assets/Firebase.Editor/Firebase.Editor.dll"
+=======
+>>>>>>> f17018ee527608675d5782d345b205f4cfa096c0
 -r:"C:/Program Files/Unity/Hub/Editor/2021.3.8f1/Editor/Data/Managed/UnityEngine/UnityEditor.CoreModule.dll"
 -r:"C:/Program Files/Unity/Hub/Editor/2021.3.8f1/Editor/Data/Managed/UnityEngine/UnityEditor.DeviceSimulatorModule.dll"
 -r:"C:/Program Files/Unity/Hub/Editor/2021.3.8f1/Editor/Data/Managed/UnityEngine/UnityEditor.DiagnosticsModule.dll"
@@ -326,9 +329,15 @@
 -r:"C:/Program Files/Unity/Hub/Editor/2021.3.8f1/Editor/Data/NetStandard/compat/2.1.0/shims/netstandard/System.Xml.XPath.XDocument.dll"
 -r:"C:/Program Files/Unity/Hub/Editor/2021.3.8f1/Editor/Data/NetStandard/Extensions/2.0.0/System.Runtime.InteropServices.WindowsRuntime.dll"
 -r:"C:/Program Files/Unity/Hub/Editor/2021.3.8f1/Editor/Data/NetStandard/ref/2.1.0/netstandard.dll"
+<<<<<<< HEAD
 -r:"C:/Users/VTG/Documents/GitHub/Unity/FINAL/Operation_Ocean/Library/PackageCache/com.unity.nuget.newtonsoft-json@3.0.2/Runtime/Newtonsoft.Json.dll"
 -r:"C:/Users/VTG/Documents/GitHub/Unity/FINAL/Operation_Ocean/Library/PackageCache/com.unity.testtools.codecoverage@1.0.1/lib/ReportGenerator/ReportGeneratorMerged.dll"
 -r:"C:/Users/VTG/Documents/GitHub/Unity/FINAL/Operation_Ocean/Library/PackageCache/com.unity.visualscripting@1.7.8/Runtime/VisualScripting.Flow/Dependencies/NCalc/Unity.VisualScripting.Antlr3.Runtime.dll"
+=======
+-r:"C:/Users/AtomROG/Documents/GitHub/FINAL/Operation_Ocean/Library/PackageCache/com.unity.nuget.newtonsoft-json@3.0.2/Runtime/Newtonsoft.Json.dll"
+-r:"C:/Users/AtomROG/Documents/GitHub/FINAL/Operation_Ocean/Library/PackageCache/com.unity.testtools.codecoverage@1.0.1/lib/ReportGenerator/ReportGeneratorMerged.dll"
+-r:"C:/Users/AtomROG/Documents/GitHub/FINAL/Operation_Ocean/Library/PackageCache/com.unity.visualscripting@1.7.8/Runtime/VisualScripting.Flow/Dependencies/NCalc/Unity.VisualScripting.Antlr3.Runtime.dll"
+>>>>>>> f17018ee527608675d5782d345b205f4cfa096c0
 -r:"Library/Bee/artifacts/1900b0aE.dag/Unity.EditorCoroutines.Editor.ref.dll"
 -r:"Library/Bee/artifacts/1900b0aE.dag/Unity.InputSystem.ref.dll"
 -r:"Library/Bee/artifacts/1900b0aE.dag/Unity.Performance.Profile-Analyzer.Editor.ref.dll"
@@ -358,6 +367,7 @@
 -r:"Library/Bee/artifacts/1900b0aE.dag/Unity.VSCode.Editor.ref.dll"
 -r:"Library/Bee/artifacts/1900b0aE.dag/UnityEditor.UI.ref.dll"
 -r:"Library/Bee/artifacts/1900b0aE.dag/UnityEngine.UI.ref.dll"
+<<<<<<< HEAD
 "Assets/Input/PlayerInput.cs"
 "Assets/LMAOWait.cs"
 "Assets/Script/AudioManager.cs"
@@ -372,22 +382,30 @@
 "Assets/Script/Interactable/OpenNote.cs"
 "Assets/Script/Interactable/SC0.cs"
 "Assets/Script/Interactable/SC1.cs"
+=======
+"Assets/Script/AudioManager.cs"
+>>>>>>> f17018ee527608675d5782d345b205f4cfa096c0
 "Assets/Script/LogoVideoScript.cs"
-"Assets/Script/MainMenu.cs"
 "Assets/Script/PauseMenu.cs"
+<<<<<<< HEAD
 "Assets/Script/PlayerInteract.cs"
 "Assets/Script/PlayerLook.cs"
 "Assets/Script/PlayerMotor.cs"
 "Assets/Script/PlayerUI.cs"
+=======
+>>>>>>> f17018ee527608675d5782d345b205f4cfa096c0
 "Assets/Script/Sound.cs"
 "Assets/Script/Stagescript/BlinkText.cs"
 "Assets/Script/Stagescript/LevelLoader.cs"
+<<<<<<< HEAD
 "Assets/Script/Stagescript/LevelLoader1.cs"
 "Assets/Script/Stagescript/NextStage.cs"
 "Assets/Script/Stagescript/NextStage1.cs"
 "Assets/Script/Stagescript/NextStage2.cs"
 "Assets/Script/Stagescript/StartGame.cs"
 "Assets/Script/Stagescript/StartGame1.cs"
+=======
+>>>>>>> f17018ee527608675d5782d345b205f4cfa096c0
 -langversion:9.0
 
 /deterministic
